@@ -9,10 +9,14 @@ I took courses in:
 4.Database Modeling - WORKOVER
 5.Fast IT -SENAC/SEACONS
 
+-Skills:
+Database in
+PostgreeSQL.
+
+Entity Model Conceptual and Logical Relationship
+
 Languages:
 Python
-
-Software skills:
 
 Illustrator - Advanced
 
@@ -32,10 +36,14 @@ Fiz os cursos de:
 4.Modelagem de banco de dados - WORKOVER
 5.Informática Rápida -SENAC/SEACONS
 
+Habilidades:
+Banco de dados em
+PostgreeSQL.
+
+Modelo Entidade Relacionamento Conceitual e Lógico
+
 Liguagens:
 Python
-
-Softwares skills:
 
 Illustrator - Avançado
 
