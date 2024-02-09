@@ -1,6 +1,6 @@
 ### Hello
-My name is Gustavo Dourado Barbosa, i have 22 years old.
-I am a Graphic Designer, I graduated in 2022 - SENAC.
+✌️My name is Gustavo Dourado Barbosa, i have 22 years old.
+I am a Graphic Designer/Frontend Dev I graduated in 2022 - SENAC.
 
 I took courses in:
 1.Computer Assembly and Maintenance - SENAC
@@ -27,8 +27,8 @@ Intermediary
 
 ________________________________________________________________________________________________________________
 
-Meu nome é Gustavo Dourado Barbosa, tenho 22 anos
-Eu sou Designer Gáfico, me formei em 2022 - SENAC.
+✌️Meu nome é Gustavo Dourado Barbosa, tenho 22 anos
+Eu sou Designer Gáfico/ Dev Frontend me formei em 2022 - SENAC.
 Fiz os cursos de:
 1.Montagem e Manutenção de Computadores - SENAC
 2.Desenhista de Produtos Gráficos Web - SENAI
