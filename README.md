@@ -15,15 +15,16 @@ Certainly! Here’s the translation:
 - Figma - Advanced
 
 ▾ Courses:  
-  1. Web Programmer - In progress 2024  
-  2. Data Analysis Marathon with Python - Alura 2024  
-  3. Systems Programmer - SENAC 2023/2024  
-  4. Database Modeling - WORKOVER 2023  
-  5. Programming Logic - SENAC 2023  
-  6. Graphic Product Design for the Web - SENAI 2021  
-  7. Computer Assembly and Maintenance - SENAC 2018  
-  8. Basic Computer Science - SENAC 2018
-
+  1. HTML e CSS - Workover 2024
+  2. Web Programmer - In progress 2024  
+  3. Data Analysis Marathon with Python - Alura 2024  
+  4. Systems Programmer - SENAC 2023/2024  
+  5. Database Modeling - WORKOVER 2023  
+  6. Programming Logic - SENAC 2023  
+  7. Graphic Product Design for the Web - SENAI 2021  
+  8. Computer Assembly and Maintenance - SENAC 2018  
+  9. Basic Computer Science - SENAC 2018
+  
 Contact me:
 
 LinkedIn:  
@@ -53,14 +54,15 @@ ________________________________________________________________________________
 - Figma - Avançado
 
 ▾ Cursos:  
-  1. Programador Web - Em andamento 2024  
-  2. Maratona de Análise de Dados com Python - Alura 2024  
-  3. Programador de Sistemas - SENAC 2023/2024  
-  4. Modelagem de Banco de Dados - WORKOVER 2023  
-  5. Lógica de Programação - SENAC 2023  
-  6. Design de Produto Gráfico para Web - SENAI 2021  
-  7. Montagem e Manutenção de Computadores - SENAC 2018  
-  8. Informática Básica - SENAC 2018
+  1. HTML e CSS - Workover 2024
+  2. Programador Web - Em andamento 2024  
+  3. Maratona de Análise de Dados com Python - Alura 2024  
+  4. Programador de Sistemas - SENAC 2023/2024  
+  5. Modelagem de Banco de Dados - WORKOVER 2023  
+  6. Lógica de Programação - SENAC 2023  
+  7. Design de Produto Gráfico para Web - SENAI 2021  
+  8. Montagem e Manutenção de Computadores - SENAC 2018  
+  9. Informática Básica - SENAC 2018
 
 Contate-me:
 Me contate
