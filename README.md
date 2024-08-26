@@ -15,14 +15,14 @@ Certainly! Here’s the translation:
 - Figma - Advanced
 
 ▾ Courses:  
-1. Web Programmer - In progress 2024  
-2. Data Analysis Marathon with Python - Alura 2024  
-3. Systems Programmer - SENAC 2023/2024  
-4. Database Modeling - WORKOVER 2023  
-5. Programming Logic - SENAC 2023  
-6. Graphic Product Design for the Web - SENAI 2021  
-7. Computer Assembly and Maintenance - SENAC 2018  
-8. Basic Computer Science - SENAC 2018
+  1. Web Programmer - In progress 2024  
+  2. Data Analysis Marathon with Python - Alura 2024  
+  3. Systems Programmer - SENAC 2023/2024  
+  4. Database Modeling - WORKOVER 2023  
+  5. Programming Logic - SENAC 2023  
+  6. Graphic Product Design for the Web - SENAI 2021  
+  7. Computer Assembly and Maintenance - SENAC 2018  
+  8. Basic Computer Science - SENAC 2018
 
 Contact me:
 
@@ -40,25 +40,29 @@ ________________________________________________________________________________
 ✌️Meu nome é Gustavo Dourado Barbosa, tenho 22 anos.
 📄Sou Designer Gráfico/Frontend Dev me formei em 2022 - SENAC.
 
-▾Habilidades:
-  Banco de dados em - PostgreeSQL
-  Modelagem conceitual e Lógica de Banco de Dados relacional
-  HTML e CSS
-▸Linguagens: Python, javascript(React).
-▸Ilustrador - Avançado
-▸Photoshop - Avançado
-▸Figma - Avançado
+✌️ Meu nome é Gustavo Dourado Barbosa, tenho 22 anos.  
+📄 Sou Designer Gráfico/Desenvolvedor Frontend e me formei em 2022 pelo SENAC.
 
-▾Cursos:
-  1.Programador Web - Em progresso 2024 
-  2.Maratona de Análise de dados com Pyhon - Alura 2024
-  3.Programador de Sistemas - SENAC 2023/2024
-  4.Modelagem de banco de dados - WORKOVER 2023
-  5.Lógica de Programação - SENAC 2023
-  6.Desenhista de Produtos Gráficos Web - SENAI 2021
-  7.Montagem e manutenção de Computadores - SENAC -2018
-  8.Informática Básica - SENAC 2018
+▾ Habilidades:  
+- Gerenciamento de banco de dados em PostgreSQL  
+- Modelagem Conceitual e Lógica de Bancos de Dados Relacionais  
+-HTML e CSS  
+- Linguagens: Python, JavaScript (React)  
+- Illustrator - Avançado  
+- Photoshop - Avançado  
+- Figma - Avançado
 
+▾ Cursos:  
+  1. Programador Web - Em andamento 2024  
+  2. Maratona de Análise de Dados com Python - Alura 2024  
+  3. Programador de Sistemas - SENAC 2023/2024  
+  4. Modelagem de Banco de Dados - WORKOVER 2023  
+  5. Lógica de Programação - SENAC 2023  
+  6. Design de Produto Gráfico para Web - SENAI 2021  
+  7. Montagem e Manutenção de Computadores - SENAC 2018  
+  8. Informática Básica - SENAC 2018
+
+Contate-me:
 Me contate
 
 Linkedin:
